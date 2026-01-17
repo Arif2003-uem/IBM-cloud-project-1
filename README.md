@@ -45,7 +45,7 @@ The model was trained on the **Power System Faults Dataset** from Kaggle.
 **Arif Mondal**
 * **Program:** IBM SkillsBuild Internship (AI & Cloud)
 * **College:** Institute of Engineering & Management, Kolkata
-* [LinkedIn](https://www.linkedin.com/in/arif-mondal-103b1128b/) | [GitHub]([https://github.com/Arijit123789](https://github.com/Arif2003-uem))
+* [LinkedIn](https://www.linkedin.com/in/arif-mondal-103b1128b/) | [GitHub]((https://github.com/Arif2003-uem))
 
 ---
 *Developed during the AICTE x IBM SkillsBuild Internship.*
