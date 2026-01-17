@@ -33,7 +33,7 @@ The model was trained on the **Power System Faults Dataset** from Kaggle.
 
 ## 📈 Performance
 * **Algorithm Selected:** Random Forest (Selected over SVM and ANN).
-* **Accuracy:** 98.7%
+* **Accuracy:** 95.6%
 * **Result:** Excellent separation between "Normal" and "Fault" states with minimal confusion between specific fault types.
 
 ## 🔮 Future Scope
@@ -42,10 +42,10 @@ The model was trained on the **Power System Faults Dataset** from Kaggle.
 * Edge deployment for ultra-low latency detection without internet dependency.
 
 ## 👨‍💻 Author
-**Arijit Bhaya**
+**Arif Mondal**
 * **Program:** IBM SkillsBuild Internship (AI & Cloud)
-* **College:** University of Engineering & Management, Kolkata
-* [LinkedIn](https://www.linkedin.com/in/arijit-bhaya) | [GitHub](https://github.com/Arijit123789)
+* **College:** Institute of Engineering & Management, Kolkata
+* [LinkedIn](https://www.linkedin.com/in/arif-mondal-103b1128b/) | [GitHub]([https://github.com/Arijit123789](https://github.com/Arif2003-uem))
 
 ---
 *Developed during the AICTE x IBM SkillsBuild Internship.*
